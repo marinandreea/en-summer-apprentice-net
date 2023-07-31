@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TicketManagementSystem.Api",
+    "\\TicketManagementSystem.Api\\Controllers",
+    "\\TicketManagementSystem.Api\\Models",
+    "\\TicketManagementSystem.Api\\Models\\Dto"
+  ],
+  "SelectedNode": "\\TicketManagementSystem.Api\\Models\\Dto\\EventDto.cs",
+  "PreviewInSolutionExplorer": false
+}
